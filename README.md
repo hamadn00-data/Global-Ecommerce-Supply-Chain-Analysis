@@ -262,7 +262,7 @@ Rather than focusing only on technical calculations, the project connects data a
 
 ### Inventory & Supply Chain
 
-*Add your Page 4 screenshot here.*
+*Screenshots/Inventory & Supply Chain - 4.PNG*
 
 ---
 
