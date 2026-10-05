@@ -254,7 +254,7 @@ Rather than focusing only on technical calculations, the project connects data a
 
 ### Sales & Customer Analysis
 
-*Add your Page 2 screenshot here.*
+*Screenshots/Sales & Customer Analysis - 2.PNG*
 
 ### Marketing & Returns
 
