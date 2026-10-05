@@ -250,7 +250,7 @@ Rather than focusing only on technical calculations, the project connects data a
 
 ### Executive Overview
 
-*Add your Page 1 screenshot here.*
+*Screenshots/Executive Overview - 1.PNG*
 
 ### Sales & Customer Analysis
 
