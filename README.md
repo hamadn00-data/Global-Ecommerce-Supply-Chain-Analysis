@@ -258,7 +258,7 @@ Rather than focusing only on technical calculations, the project connects data a
 
 ### Marketing & Returns
 
-*Add your Page 3 screenshot here.*
+*Screenshots/Marketing & Returns - 3.PNG*
 
 ### Inventory & Supply Chain
 
